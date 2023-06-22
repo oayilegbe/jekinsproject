@@ -1,2 +1,2 @@
-# jekinsproject
+# jenkinsproject
 terraform jenkinsproject
